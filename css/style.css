@@ -56,3 +56,116 @@ body {
     width: 802.9px;
     height: 500px;
 }
+.midnight {
+    background-image: url("../public/Vectorrr.png");
+    background-repeat: no-repeat;
+    font-weight: black;
+    width: 1320px;
+    height:610px;
+}
+.injoy-title {
+    text-align: left;
+    color: #FFFFFF;
+    font-size: 60px;
+    
+}
+
+.injoy-subtitle {
+    text-align: left;
+    color: #FFFFFF;
+    gap: 30px;
+}
+
+.join-title{
+    text-align: left;
+    color: #FFFFFF;
+    font-size: 25px;
+}
+
+.details {
+    background-color: antiquewhite;
+    width: 1300px;
+    height: 400px;
+    text-align: center;
+    padding: 20px;
+    background-size: cover;
+}
+.place-title {
+    color: #FF0000;
+    font-weight: bold;
+}
+.place {
+    color: black;
+    
+}
+.night-title{
+    color: #FF0000;
+    font-weight: bold;
+}
+.night {
+    color: black;
+}
+.time-title {
+  color: #FF0000;
+  font-weight: bold;
+}
+.even {
+    color: black;
+}
+.btn {
+    color: #FFFFFF;
+    padding: 10px 12px;
+    border: none;
+    border-radius: 5px;
+    background-color: #FF0000;
+    font-size: 20px;
+}
+.left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(228, 225, 220);
+    width: 1280px;
+    height: 380px;
+}
+.best-title {
+    align-items: center;
+    
+}
+.off-title {
+    color: #FF0000;
+    font-size: small;
+}
+.main-title {
+    text-align: left bottom;
+    font-size: 40px;
+    font-weight: bold;
+    
+}
+.description {
+    color: #8f8c94;
+}
+.img-section {
+    justify-content: center;
+    align-items: center;
+}
+
+.year-section {
+    color: #FF0000;
+
+}
+year {
+    font-size: 20px;
+}
+.year-description {
+    color: #8f8c94;
+
+}
+.container {
+    background-repeat: no-repeat;
+}
+.text-title {
+    color: black;
+}
+
+
